@@ -1,0 +1,13 @@
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.exe
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.deps.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.runtimeconfig.dev.json
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\bin\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csprojAssemblyReference.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfoInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.AssemblyInfo.cs
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.csproj.CoreCompileInputs.cache
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.dll
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.pdb
+C:\Users\Vinicius.Carmo\Documents\Baltaio\EditorHtml\obj\Debug\netcoreapp3.1\EditorHtml.genruntimeconfig.cache
